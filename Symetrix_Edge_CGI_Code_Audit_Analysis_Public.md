@@ -11,7 +11,7 @@
 
 | Item | Content |
 |---|---|
-| Discoverer | (researcher attribution) |
+|HUANGQIXIN|
 | First discovery | 2026-10 |
 | Target | CGI components of the Symetrix Edge family of audio DSPs |
 | Coordination status | Submitted to CNVD; coordination with the vendor in progress |
