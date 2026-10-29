@@ -11,10 +11,10 @@
 
 | Item | Content |
 |---|---|
-|HUANGQIXIN|
+|QIXIN|
 | First discovery | 2026-10 |
 | Target | CGI components of the Symetrix Edge family of audio DSPs |
-| Coordination status | Submitted to CNVD; coordination with the vendor in progress |
+| Affected Product Code Base | Symetrix Edge Audio DSP (arc_mix_cgi V1.26 build 2020-10-16; arc_web_cgi V1.17 build 2019-11-22; dialer_cgi V1.79 build 2019-11-22) |
 | Disclosure policy | This document is a **low-operational-detail technical analysis**; full reproduction material is withheld until the vendor ships a fix |
 
 > If the vendor releases a fix or agrees to disclosure, the timeline in §10 will be updated with the fixed version and acknowledgements. Until then, do not use this document to run verification against in-field devices.
