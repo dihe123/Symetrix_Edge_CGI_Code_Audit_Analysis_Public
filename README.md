@@ -56,7 +56,7 @@ All three were taken from the device's `/cgi-bin/` directory (the `lighttpd/1.4.
 | Architecture / ABI | ELF 32-bit LSB **ARM, EABI5** (`arc_web_cgi` is **Thumb**; the other two are ARM mode) |
 | SoC | ADI ADSP-SC589 |
 | OS | Linux 3.16.0 |
-| Web server | lighttpd/1.4.55 (CGI) |
+| Web server | lighttpd/1.4.55 (CGI) Symetrix Edge Audio DSP (arc_mix_cgi V1.26 build 2020-10-16; arc_web_cgi V1.17 build 2019-11-22; dialer_cgi V1.79 build 2019-11-22)|
 | Toolchain | ADI CCES Linux Add-In 1.2.0 / GCC 4.8.3 `-g -O2` |
 | Build path | `/home/jharris/workspace/Edge_Firmware/...`, **shared module `edge_common`** |
 
